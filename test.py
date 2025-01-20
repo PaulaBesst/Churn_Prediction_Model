@@ -1,7 +1,7 @@
 import requests
 
 # URL of the Flask app
-url = "http://127.0.0.1:5000/predict"
+url = "https://churn-prediction-model-bfol.onrender.com/predict"
 
 # Sample data to test the model
 test_data = {
